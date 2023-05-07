@@ -15,29 +15,5 @@ Instead of using each philosophers wikipage as text we chose to utilize the Open
 
 We then created a networkx graph by connecting philosophers if their wiki page contains a link to another philosopher. This resulted in the graph below where each node is colored by the philosphers subfield. To see how we handled finding communities head to [here](network-analysis). If you are more interested in how we analyzed the text head to [here](text-analysis)
 
-## Math formula
 
-
-$$ x^n + y^n = z^n $$
-
-## Code chunk
-
-```
-import pandas as pd
-
-df = pd.DataFrame()
-```
-
-
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec mauris aliquet, convallis ligula vel, mollis est. Fusce accumsan massa vel lectus dapibus, at vehicula elit auctor.
-
-| Column 1  | Column 2  |  Column 3 |
-|---|---|---|
-| 1 | 4 | 7 |
-| 2 | 5 | 8 |
-| 3 | 6 | 9 |
-
-## [Explainer Notebook](explainer-notebook.html)
-
-Aenean non augue vulputate, bibendum ligula ac, euismod arcu. Proin consequat, urna at lobortis sodales, ligula nulla molestie dolor, et interdum nulla arcu eu lacus. Aenean maximus mi vel augue blandit, quis vehicula libero egestas. In mollis nibh in turpis sodales, eget luctus sem pretium. Integer lobortis diam vel nisi laoreet, ut condimentum risus ultrices. Praesent diam risus, imperdiet at lorem in, hendrerit auctor ex.
+## [Explainer Notebook](https://github.com/c-wejendorp/finalProject_group1/tree/main/explainerNotebookFolder)
