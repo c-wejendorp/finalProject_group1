@@ -1,7 +1,7 @@
 ---
 title: Data collection
 prev: "/"
-next: network1
+next: network-analysis
 ---
 
 Wikipedia offers a list of philosophers divided into subfields, e.g., logician and ethicist, of which common web scraping techniques using Python’s `request` module was used to collect information on all listed philosophers. Additional information was added using Wikipedia’s sister project Wikidata, where the corresponding page is found using what is called a Q-code. The following attributes were collected:
@@ -25,9 +25,20 @@ When collecting `href` nuisance pages were filtered away. These pages are typica
 
 The **info** attribute was directly collected from Wikidata. However, this information was not complete, so manual collection was necessary by visiting their respective Wikipedia pages. 
 
+To obtain a summary of each philosophers philosphy we used the OpenAI API. It is simple to use and here is an example of how to use it:
 
-The summaries CHRISTOFFER
+```
+import openai
+prompt = f"{authorName} philosophy summarized in no more than 200 words"
 
+# use the openai API to get the summary
+response = openai.ChatCompletion.create(
+model="gpt-3.5-turbo",
+messages=[{"role": "user", "content": prompt}],
+max_tokens=250)
+
+summary = response.choices[0].message.content
+```
 
 
 
