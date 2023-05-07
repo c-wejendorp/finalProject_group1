@@ -11,14 +11,14 @@ Unfortunately, the world can rarely be categorized into distinct boxes. In this 
 
 Subsequent to each word cloud we try to justify the discovered communities. These are very conspiratory and we welcome the reader to come up with their own explanations.
 
+Community 0
+<img src="/images/wordcloud0.png" width="1500" />
+This serves as the largest community in the network.
+
 Community 1
 <img src="/images/wordcloud1.png" width="1500" />
 
-
-<img src="/images/graph_links_wordclouds_subfield.png" width="500" />
-
-
-This serves as the largest community in the network. It appears that the brain is the main focus dealing with the logical left hemisphere and the creative (language) right hemisphere.
+It appears that the brain is the main focus dealing with the logical left hemisphere and the creative (language) right hemisphere.
 
 
 Community 2
