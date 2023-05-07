@@ -7,24 +7,19 @@ prev: network-analysis
 We will now create and inspect the wordclouds for each community to get an idea of what the communities are about. We also inspect the top 3 subfields in each community. To create wordclouds we calculated the TF-IDF scores for each word in each community. TF-IDF stands for term frequency-inverse document frequency. It is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. The TF-IDF value increases proportionally to the number of times a word appears in the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some words appear more frequently in general. 
 
 
-Unfortunately, the world can rarely be categorized into distinct boxes. In this case, philosophers dabble in multiple fields of philosophy, thus a way of allocating a single subfield is required. The following determines the most popular subfield surround the node of interest and assigns it, if the node was not already assigned only a single subfield.
-
 Subsequent to each word cloud we try to justify the discovered communities. These are very conspiratory and we welcome the reader to come up with their own explanations.
 
-Community 0
 <img src="/images/wordcloud0.png" width="1500" />
-This serves as the largest community in the network.
+This serves as the largest community in the network. It appears that the brain is the main focus dealing with the logical left hemisphere and the creative (language) right hemisphere.
 
-Community 1
+
 <img src="/images/wordcloud1.png" width="1500" />
+This community is critical of the status quo in the form of economics and perhaps how they affect us socially. Notice the biggest words 'society', 'marxist', and 'captialist'. 
 
-It appears that the brain is the main focus dealing with the logical left hemisphere and the creative (language) right hemisphere.
-
-
-Community 2
 <img src="/images/wordcloud2.png" width="1500" />
+In this we are baffled. Here Hitler seems to be the protagonist with german sounding names surrounding him. We are not sure what to make of this.
 
-Community 3
+
 <img src="/images/wordcloud3.png" width="1500" />
 
 Community 4
@@ -42,8 +37,7 @@ Community 7
 Community 8
 <img src="/images/wordcloud8.png" width="1500" />
 
-Community 9
 <img src="/images/wordcloud9.png" width="1500" />
 
-Community 10
 <img src="/images/wordcloud10.png" width="1500" />
+Computer science seems to be the trend here with 'Löb' perhaps referring to Löb's theorem that concerns the provability of certain statements, where 'provability' also appears in the wodcloud. 
