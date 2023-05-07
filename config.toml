@@ -10,11 +10,11 @@ theme = "theme"
     github = "https://github.com/c-wejendorp/comSocFinalProject"
     [[params.nav]]
         label = "Data"
-        link = "/data-description"
+        link = "/data-description"    
     [[params.nav]]
-        label = "Network"
-        link = "/network-analysis"
+        label = "Network 1"
+        link = "/network1"
     [[params.nav]]
-        label = "Text"
-        link = "/text-analysis"
+        label = "Network 2"
+        link = "/network2"
 

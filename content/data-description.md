@@ -1,7 +1,7 @@
 ---
 title: Data collection
 prev: "/"
-next: network-analysis
+next: network1
 ---
 
 Wikipedia offers a list of philosophers divided into subfields, e.g., logician and ethicist, of which common web scraping techniques using Python’s `request` module was used to collect information on all listed philosophers. Additional information was added using Wikipedia’s sister project Wikidata, where the corresponding page is found using what is called a Q-code. The following attributes were collected:
