@@ -1,11 +1,18 @@
 ---
-title: Home Page
+#title: Home Page
 layout: single
 next: data-description
 ---
 
-Look at this text. Isn't it nice. onec posuere justo at risus [efficitur convallis](#). Donec enim nibh, aliquet vel risus id, tincidunt consectetur felis. Proin porttitor odio a orci accumsan bibendum id at risus. Sed a posuere odio, ac lobortis augue. Maecenas aliquet ipsum vel libero dignissim, non aliquet justo eleifend. Fusce mollis, ante eget tincidunt imperdiet, mi ligula venenatis ex, ut pulvinar nunc ipsum tempus eros. Aliquam erat volutpat. Sed id _iaculis arcu_, sit amet varius libero. Etiam quis nisl pretium, eleifend quam nec, rutrum sapien. **Donec rutrum accumsan orci.**
+This website was created as the final project in DTU’s ‘02467 Computational Social Science’ where we’ve been taught a collection of tools on analyzing bigger systems that include some form of connections. 
+We chose to look at philosophers with the intent of demystifying the world of ideas and hopefully gather insight into how these relate -or at least the connection between those that originally expressed them. 
 
+We collected our data by websraping Wikipedias list of [philosophers by subfield](https://en.wikipedia.org/wiki/Lists_of_philosophers) and obtained a list of 2111 philophers. The figure below gives visual representation of the number of philosophers in each subfield and the subfields themselves.
+
+
+each of these philosphers we obtained th 
+
+The data set was obtained by web scraping Wikipedia and collection
 
 ## Math formula
 

@@ -1,13 +1,13 @@
 baseURL = "https://c-wejendorp.github.io/finalProject_group1/"
-title = "Project Title"
+title = "Philosophical Connections - Group 1 "
 description = "This is a project description"
 relativeURLs = true
 theme = "theme" 
 [params]
-    authors = ["Henrik Nielsen", "Inga Jensen", "Mikkel Andersen"]
+    authors = ["Christoffer Wejendorp s204090", "Jason A. Merit s216135", "William Peytz s204145"]
     notebook = "/explainer-notebook.html"
-    data = "https://drive.google.com"
-    github = "https://github.com/peterampazzo/project-website-template"
+    data = "https://drive.google.com/drive/folders/1xwR5Zs8cxGvjHV0Q6zxCC-d-TxL9ICbF?usp=share_link"
+    github = "https://github.com/c-wejendorp/comSocFinalProject"
     [[params.nav]]
         label = "Data"
         link = "/data-description"
