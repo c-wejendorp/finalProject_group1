@@ -26,14 +26,19 @@ This community seems to contain religious and medieval philopshers as the word '
 Here words as market and economy are present. Furthermore  the names Hazlitt, Goodwin and Binswanger are present. These are philosophers that focus on psychology. Thus this community's philosophers could be about how the economy affects us psychologically which tiew well with the largest subfield being Socio-politics.
 
 <img src="/images/wordcloud5.png" width="1500" />
+Subfields are not very indicative, but with words like 'brahman' (Hinduism for highest universal principle) and 'buddhist' it seems to be about eastern philosophy.
 
 <img src="/images/wordcloud6.png" width="1500" />
+We believe 'scottish' appears as the largest words, due to Utilitarianism originating from the Scotland Enlightenment with big names such as David Hume and Adam Smith.
 
 <img src="/images/wordcloud7.png" width="1500" />
+Natural science and technology springs forth as the biggest words here. Huamnism is also the major subfield. 
 
 <img src="/images/wordcloud8.png" width="1500" />
+Biggest word being 'jewish' and the following big words also concerning religion, this community seems to be about religion. The smaller words do refer to more ancient philosophers, so perhaps this community is about the history of religion.
 
 <img src="/images/wordcloud9.png" width="1500" />
+With Feminism appearing as the most dominant subfield and looking at the wordcloud this community obviously represents feminism. 
 
 <img src="/images/wordcloud10.png" width="1500" />
 Computer science seems to be the trend here with 'Löb' perhaps referring to Löb's theorem that concerns the provability of certain statements, where 'provability' also appears in the wodcloud. 
