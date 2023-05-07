@@ -1,4 +1,4 @@
-# This is group 1s final project for the course computational social science on DTU. 
+# This is group 1's final project for the course computational social science on DTU. 
 
 # Here is a link to the the website:
 https://c-wejendorp.github.io/finalProject_group1/
