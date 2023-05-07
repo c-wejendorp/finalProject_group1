@@ -424,11 +424,22 @@ Enough with the tables. Let's see some actual graphs. The following graphs were 
 
 <img src="/images/graph_link_subfield_network.png" width="500" />
 
+To find communties we use the Louvain algorithm. This algorithm is a greedy optimization method that tries to maximize the modularity of the graph. The modularity is a measure of how well the graph is partitioned into communities. The algorithm is iterative and works by first assigning each node to its own community. Then it iterates over all nodes and tries to move it to the community that gives the largest increase in modularity.
 
-CHRSTOFFER
+The communties have the following number of nodes
 
+| 0: | 1: | 2: | 3: | 4: | 5:| 6: | 7: | 8: | 9: | 10: |
+|---|---|---|--|---|---|---|---|---|---|---|
+| 421| 289| 148| 93| 47| 51| 247| 225| 187| 76| 6|
+
+The algorithm finds 11 communities with varying sizes. We have community 10 as the smallest. It only includes 6 nodes, compared to the largest community 0 which includes 421 nodes. 
+The modularity of the graph is 0.55 and indicates that the number of edges within communties are larger than they would be by chance.
+
+Here we can see the communities visualized.
 
 <img src="/images/graph_link_group_network.png" width="500" />
+
+
 
 
 

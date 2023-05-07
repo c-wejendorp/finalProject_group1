@@ -6,9 +6,6 @@ prev: network-analysis
 ## Wordclouds for each community
 We will now create and inspect the wordclouds for each community to get an idea of what the communities are about. We also inspect the top 3 subfields in each community. To create wordclouds we calculated the TF-IDF scores for each word in each community. TF-IDF stands for term frequency-inverse document frequency. It is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus. The TF-IDF value increases proportionally to the number of times a word appears in the document and is offset by the number of documents in the corpus that contain the word, which helps to adjust for the fact that some words appear more frequently in general. 
 
-
-Unfortunately, the world can rarely be categorized into distinct boxes. In this case, philosophers dabble in multiple fields of philosophy, thus a way of allocating a single subfield is required. The following determines the most popular subfield surround the node of interest and assigns it, if the node was not already assigned only a single subfield.
-
 Subsequent to each word cloud we try to justify the discovered communities. These are very conspiratory and we welcome the reader to come up with their own explanations.
 
 Community 0
