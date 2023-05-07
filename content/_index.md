@@ -13,9 +13,7 @@ We collected our data by websraping Wikipedias list of [philosophers by subfield
 
 Instead of using each philosophers wikipage as text we chose to utilize the OpenAI API to obtain a summary of each philosopher's philosophy in 200 words. Head on over to the [data collection page](data-description/) for more information on our data collection.
 
-We then created a networkx graph by connecting philosophers if their wiki page contains a link to another philosopher. This resulted in the graph below where each node is colored by the philosphers subfield. To see how we handled finding communities and created some interesting wordclouds head over to the [network 1](network1/) page.
-
-As one network was not enough for us we also created network number 2. Here we connected philosophers based on the cosine similarity of their philosophy summary. We again used the OpenAI API, this time to obtain embeddings of each philosophers philosophy summary. The process and result of this is displayed [here](network2/).
+We then created a networkx graph by connecting philosophers if their wiki page contains a link to another philosopher. This resulted in the graph below where each node is colored by the philosphers subfield. To see how we handled finding communities head to [here](network-analysis). If you are more interested in how we analyzed the text head to [here](text-analysis)
 
 ## Math formula
 
