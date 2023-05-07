@@ -7,7 +7,7 @@ theme = "theme"
     authors = ["Christoffer Wejendorp s204090", "Jason A. Merit s216135", "William Peytz s204145"]
     notebook = "/explainer-notebook.html"
     data = "https://drive.google.com/drive/folders/1xwR5Zs8cxGvjHV0Q6zxCC-d-TxL9ICbF?usp=share_link"
-    github = "https://github.com/c-wejendorp/comSocFinalProject"
+    github = "https://github.com/c-wejendorp/finalProject_group1"
     [[params.nav]]
         label = "Data"
         link = "/data-description"    

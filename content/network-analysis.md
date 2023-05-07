@@ -1,7 +1,7 @@
 ---
-title: Network 1
+title: Text Analysis
 prev: data-description
-next: network2
+next: text-analysis
 ---
 
 On this page the graph is constructed and analyzed. Using the  **links_to** attribute, a directional graph is created. This results in a graph containing 1.809 nodes and 11.151 edges. This reduction from 2111 philosophers is due to removal of isolated nodes, i.e., philosophers that neither refer to others or are referred to. Because of the directional nature, edges will be both ingoing and outgoing with respect to the nodes. First a scatter plot is shown, where each point represents the count of out-degree vs in-degree. This illustrates the correlation between the two sizes. 
