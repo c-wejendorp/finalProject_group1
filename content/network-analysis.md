@@ -93,6 +93,18 @@ next: network2
 
 images:
 
+plot 1
+
+<img src="/images/out_vs_in_degree.png" width="500" />
+
+plot 2 
+
+<img src="/images/distribution.png" width="500" />
+
+
+
+
+
 subfield
 
 
