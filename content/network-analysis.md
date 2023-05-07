@@ -90,3 +90,17 @@ next: network2
     width: 40%;
   }
 </style>
+
+images:
+
+subfield
+
+
+<img src="/images/graph_link_subfield_network.png" width="500" />
+
+community detection:
+
+<img src="/images/graph_link_group_network.png" width="500" />
+
+
+
