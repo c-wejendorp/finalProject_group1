@@ -19,22 +19,18 @@ This community is critical of the status quo in the form of economics and perhap
 <img src="/images/wordcloud2.png" width="1500" />
 In this we are baffled. Here Hitler seems to be the protagonist with german sounding names surrounding him. We are not sure what to make of this.
 
-
 <img src="/images/wordcloud3.png" width="1500" />
+This community seems to contain religious and medieval philopshers as the word 'god' is one the largest words and galileo galilei is also present.
 
-Community 4
 <img src="/images/wordcloud4.png" width="1500" />
+Here words as market and economy are present. Furthermore  the names Hazlitt, Goodwin and Binswanger are present. These are philosophers that focus on psychology. Thus this community's philosophers could be about how the economy affects us psychologically which tiew well with the largest subfield being Socio-politics.
 
-Community 5
 <img src="/images/wordcloud5.png" width="1500" />
 
-Community 6
 <img src="/images/wordcloud6.png" width="1500" />
 
-Community 7
 <img src="/images/wordcloud7.png" width="1500" />
 
-Community 8
 <img src="/images/wordcloud8.png" width="1500" />
 
 <img src="/images/wordcloud9.png" width="1500" />
